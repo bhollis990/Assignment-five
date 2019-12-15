@@ -1,0 +1,17 @@
+* {
+    color: black;
+    font: 25px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #c7c7c7
+}
+
+h1 {
+    text-align: center;
+}
+
+ul, p {
+    padding: 30px;
+    margin: 15px;
+
+}
